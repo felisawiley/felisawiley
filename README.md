@@ -12,7 +12,7 @@ Welcome to my world of tech wizardry, where I'm always tinkering with code and e
 
 📚 Currently Reading: a book about Python, Proof of Stake by Vitalik Buterin, and Hamlet (in Portuguese)
 
-In my free time, you can find me traveling to new countries, learning languages, practicing yoga, or writing a book. In fact, I'm going on a solo writers retreat this summer.
+💡 In my free time, you can find me traveling to new countries, learning languages, practicing yoga, or writing a book. In fact, I'm going on a solo writers retreat this summer. I've always wanted to write the book, but I'm finally disciplined enough to set a target goal and schedule and stick with it.
 
 📫 How to reach me: felisawiley@gmail.com
 
