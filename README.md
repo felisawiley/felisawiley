@@ -3,14 +3,15 @@
 
 🔭 I’m currently working on creating a similiarity algorithm and using Python to automate editing reports.
 
-🌱 I’m currently learning more Python, because there will always be something new to learn :) About to move onto my second coding language (R or Java).
+🌱 I’m currently learning about machine learning and AI.
 
-👯 I’m looking to collaborate on ML/ AI projects. If you have any book recommendations, send my way!
-
-💬 Ask me about tech and intergenerational differences.
+💬 Ask me about tech and intergenerational differences. It's a topic I geek out on.
 
 📫 How to reach me: felisawiley@gmail.com
 
 😄 Pronouns: she/her
+
 ⚡ Fun fact: Born and raised in St. Thomas, and I speak 3 languages.
 
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=green&&style=plastic)
