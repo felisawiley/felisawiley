@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**felisawiley/felisawiley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on creating a similiarity algorithm and using Python to automate editing reports.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning more Python, because there will always be something new to learn :) About to move onto my second coding language (R or Java).
+
+👯 I’m looking to collaborate on ML/ AI projects. If you have any book recommendations, send my way!
+
+💬 Ask me about tech and intergenerational differences.
+
+📫 How to reach me: felisawiley@gmail.com
+
+😄 Pronouns: she/her
+⚡ Fun fact: Born and raised in St. Thomas, and I speak 3 languages.
+
