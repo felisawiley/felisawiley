@@ -5,9 +5,9 @@ Data/analytics professional (7+ years — healthcare, adtech, edtech, financial 
 - 🔬 **Now:** Research Assistant at Penn Medicine's AI-4-AI Lab — manual NLP error analysis comparing GPT-generated labels against clinician-annotated ground truth for a clinical NLP research project.
 - 🎓 **Studying:** Penn MS in Applied Sciences (Engineering Entrepreneurship Certificate), TAing a CIT course.
 - 💼 **Consulting:** Working with [Silver Creek Insights](https://www.silvercreek.ai/) on data strategy and analytics.
-- ✍️ **Writing:** I have some ideas, but can't share just yet -- click [here](https://feewiley.co/aoc/) for a sneak peek.
+- ✍️ **Writing:** I have some ideas, but can't share just yet -- [sneak peek](https://feewiley.co/aoc/).
 - 🎙️ **Host**: Host of [SciPod](https://open.spotify.com/show/3a3idiNx3Rn1wFZ2iNgWkf) and [Architect of Calm](https://open.spotify.com/show/7gPqBgYccM6GZb5tQmeY8F?si=df1732afe02a4f3b) -- available on all platforms.
-- 🎤 **Speaker:** talks on data strategy, AI, and attention/cognition(https://feewiley.co/webinars/).
+- 🎤 **Speaker:** talks on data strategy, AI, and attention/cognition -- [archive](https://feewiley.co/webinars/).
 - 🧠 **Interests:** behavioral science, philosophy, sociotechnical systems, how AI reshapes how people think and agree.
 - 🗣️ **Somewhat Trilingual** — English, Spanish, slowly losing Portuguese.
 
