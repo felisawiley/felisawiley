@@ -6,7 +6,7 @@ Data/analytics professional (7+ years — healthcare, adtech, edtech, financial 
 - 🎓 **Studying:** Penn MS in Applied Sciences (Engineering Entrepreneurship Certificate), TAing a CIT course.
 - 💼 **Consulting:** Working with SilverCreek Insights on data strategy and analytics.
 - ✍️ **Writing:** I have some ideas, but can't share just yet.
-- 🎙️ **Host**: Host of[SciPod](https://open.spotify.com/show/3a3idiNx3Rn1wFZ2iNgWkf) and [Architect of Calm](https://open.spotify.com/show/7gPqBgYccM6GZb5tQmeY8F?si=df1732afe02a4f3b) podcast available on all platforms.
+- 🎙️ **Host**: Host of[SciPod](https://open.spotify.com/show/3a3idiNx3Rn1wFZ2iNgWkf) and [Architect of Calm](https://open.spotify.com/show/7gPqBgYccM6GZb5tQmeY8F?si=df1732afe02a4f3b) - available on all platforms.
 - 🎤 **Speaker:** talks on data strategy, AI, and attention/cognition.
 - 🧠 **Interests:** behavioral science, philosophy, sociotechnical systems, how AI reshapes how people think and agree.
 - 🗣️ **Somewhat Trilingual** — English, Spanish, slowly losing Portuguese.
